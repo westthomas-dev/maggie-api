@@ -1,0 +1,6 @@
+@Maggie.Api_HostAddress = http://localhost:32769
+
+GET {{Maggie.Api_HostAddress}}/api/v1/maggie
+Accept: application/json
+
+###
